@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.25.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_OY2V" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Password</Translation>
+      </Text>
+      <Text Id="__SingleUse_A8Z0" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Username</Translation>
+      </Text>
+      <Text Id="__SingleUse_UIO1" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Site</Translation>
+      </Text>
+      <Text Id="__SingleUse_PVSW" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_YLV4" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_1QCP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_LWDN" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_0Z81" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Use as coloring book layer</Translation>
+      </Text>
+      <Text Id="__SingleUse_A0J6" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_AXIJ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Cancel</Translation>
+      </Text>
+      <Text Id="__SingleUse_7U59" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_4XGM" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Drawings</Translation>
+      </Text>
+      <Text Id="__SingleUse_VWYL" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Cancel</Translation>
+      </Text>
+      <Text Id="__SingleUse_X6A6" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_NOJS" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">50</Translation>
+      </Text>
+      <Text Id="__SingleUse_9YM9" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">50</Translation>
+      </Text>
+      <Text Id="__SingleUse_OD9X" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">50</Translation>
+      </Text>
+      <Text Id="__SingleUse_OL05" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Size&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_I92I" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Palette</Translation>
+      </Text>
+      <Text Id="__SingleUse_I4DW" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Hue</Translation>
+      </Text>
+      <Text Id="__SingleUse_UHB2" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">New</Translation>
+      </Text>
+      <Text Id="__SingleUse_WQLR" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Delete</Translation>
+      </Text>
+      <Text Id="__SingleUse_EJUQ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Overspray&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_UHO4" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Hardness&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_C75V" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">SD Card Status:</Translation>
+      </Text>
+      <Text Id="__SingleUse_6PC5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">None</Translation>
+      </Text>
+      <Text Id="__SingleUse_YMEI" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_1PS6" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">(requires loading an image with the coloring book option)</Translation>
+      </Text>
+      <Text Id="__SingleUse_5WKQ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Coloring Book</Translation>
+      </Text>
+      <Text Id="__SingleUse_UOT8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Show coloring book layer</Translation>
+      </Text>
+      <Text Id="__SingleUse_1R3Y" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Color in lines</Translation>
+      </Text>
+      <Text Id="__SingleUse_YVFI" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Settings</Translation>
+      </Text>
+      <Text Id="__SingleUse_GE5Z" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Set Brushmaker</Translation>
+      </Text>
+      <Text Id="__SingleUse_7275" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Delete</Translation>
+      </Text>
+      <Text Id="__SingleUse_QK1K" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">New</Translation>
+      </Text>
+      <Text Id="__SingleUse_CIL7" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Brush</Translation>
+      </Text>
+      <Text Id="__SingleUse_K9RC" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_F2RC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">SD Card Status:</Translation>
+      </Text>
+      <Text Id="__SingleUse_61M1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">None</Translation>
+      </Text>
+      <Text Id="__SingleUse_KC8R" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_VZ28" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_N9U0" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_K8G5" Alignment="Left" TypographyId="Medium">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_4KRO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_XFRE" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Login</Translation>
+      </Text>
+      <Text Id="__SingleUse_WPU0" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Storage Settings</Translation>
+      </Text>
+      <Text Id="__SingleUse_OS6Z" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Nextcloud Account:</Translation>
+      </Text>
+      <Text Id="__SingleUse_V7UO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">None</Translation>
+      </Text>
+      <Text Id="__SingleUse_BDG8" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Setup Nextcloud</Translation>
+      </Text>
+      <Text Id="__SingleUse_VN9E" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Setup Google</Translation>
+      </Text>
+      <Text Id="__SingleUse_THCO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">None</Translation>
+      </Text>
+      <Text Id="__SingleUse_UMOQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Google Account:</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="calibri.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="calibri.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="calibri.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Medium" Font="calibri.ttf" Size="16" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

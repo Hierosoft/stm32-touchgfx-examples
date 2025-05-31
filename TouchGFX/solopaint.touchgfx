@@ -1,0 +1,2594 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "drawScreen",
+        "Components": [
+          {
+            "Type": "TextArea",
+            "Name": "statusTA",
+            "X": 15,
+            "Y": 448,
+            "Width": 690,
+            "Height": 32,
+            "TextId": "__SingleUse_KC8R",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image2",
+            "X": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image3",
+            "X": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image4",
+            "X": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image5",
+            "X": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image6",
+            "X": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image7",
+            "X": 480,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image8",
+            "X": 560,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image9",
+            "X": 640,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image10",
+            "X": 720,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image1_1",
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image2_1",
+            "X": 80,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image3_1",
+            "X": 160,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image4_1",
+            "X": 240,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image5_1",
+            "X": 320,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image6_1",
+            "X": 400,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image7_1",
+            "X": 480,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image8_1",
+            "X": 560,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image9_1",
+            "X": 640,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image10_1",
+            "X": 720,
+            "Y": 80,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image1_2",
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image2_2",
+            "X": 80,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image3_2",
+            "X": 160,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image4_2",
+            "X": 240,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image5_2",
+            "X": 320,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image6_2",
+            "X": 400,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image7_2",
+            "X": 480,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image8_2",
+            "X": 560,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image9_2",
+            "X": 640,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image10_2",
+            "X": 720,
+            "Y": 160,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image1_3",
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image2_3",
+            "X": 80,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image3_3",
+            "X": 160,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image4_3",
+            "X": 240,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image5_3",
+            "X": 320,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image6_3",
+            "X": 400,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image7_3",
+            "X": 480,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image8_3",
+            "X": 560,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image9_3",
+            "X": 640,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image10_3",
+            "X": 720,
+            "Y": 240,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image1_4",
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image2_4",
+            "X": 80,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image3_4",
+            "X": 160,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image4_4",
+            "X": 240,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image5_4",
+            "X": 320,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image6_4",
+            "X": 400,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image7_4",
+            "X": 480,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image8_4",
+            "X": 560,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image9_4",
+            "X": 640,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image10_4",
+            "X": 720,
+            "Y": 320,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image1_5",
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image2_5",
+            "X": 80,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image3_5",
+            "X": 160,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image4_5",
+            "X": 240,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image5_5",
+            "X": 320,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image6_5",
+            "X": 400,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image7_5",
+            "X": 480,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image8_5",
+            "X": 560,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image9_5",
+            "X": 640,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "Image",
+            "Name": "image10_5",
+            "X": 720,
+            "Y": 400,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "paletteButton",
+            "X": 740,
+            "Y": 288,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\dark_theme_images_widgets_button_icon_round_tiny_fill_disabled.png",
+            "IconPressed": "__generated\\icon_theme_images_image_palette_40_40_E8F6FB.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_image_palette_40_40_E8F6FB.svg.png",
+            "IconX": 11,
+            "IconY": 11,
+            "IconHeight": 40,
+            "IconWidth": 40
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "brushButton",
+            "X": 675,
+            "Y": 288,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\dark_theme_images_widgets_button_icon_round_tiny_fill_disabled.png",
+            "IconPressed": "__generated\\icon_theme_images_image_brush_40_40_E8F6FB.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_image_brush_40_40_E8F6FB.svg.png",
+            "IconX": 11,
+            "IconY": 11,
+            "IconHeight": 40,
+            "IconWidth": 40
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "zoomOutButton",
+            "X": 675,
+            "Y": 354,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\dark_theme_images_widgets_button_icon_round_tiny_fill_disabled.png",
+            "IconPressed": "__generated\\icon_theme_images_action_zoom_out_40_40_E8F6FB.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_action_zoom_out_40_40_E8F6FB.svg.png",
+            "IconX": 11,
+            "IconY": 11,
+            "IconHeight": 40,
+            "IconWidth": 40
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "zoomInButton",
+            "X": 740,
+            "Y": 354,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\dark_theme_images_widgets_button_icon_round_tiny_fill_disabled.png",
+            "IconPressed": "__generated\\icon_theme_images_action_zoom_in_40_40_E8F6FB.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_action_zoom_in_40_40_E8F6FB.svg.png",
+            "IconX": 11,
+            "IconY": 11,
+            "IconHeight": 40,
+            "IconWidth": 40
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "redoButton",
+            "X": 740,
+            "Y": 420,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\dark_theme_images_widgets_button_icon_round_tiny_fill_disabled.png",
+            "IconPressed": "__generated\\icon_theme_images_content_redo_40_40_E8F6FB.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_content_redo_40_40_E8F6FB.svg.png",
+            "IconX": 11,
+            "IconY": 11,
+            "IconHeight": 40,
+            "IconWidth": 40
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "undoButton",
+            "X": 675,
+            "Y": 420,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\dark_theme_images_widgets_button_icon_round_tiny_fill_disabled.png",
+            "IconPressed": "__generated\\icon_theme_images_content_undo_40_40_E8F6FB.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_content_undo_40_40_E8F6FB.svg.png",
+            "IconX": 11,
+            "IconY": 11,
+            "IconHeight": 40,
+            "IconWidth": 40
+          },
+          {
+            "Type": "Image",
+            "Name": "paletteImage",
+            "X": 690,
+            "Width": 80,
+            "Height": 80
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "navDrawToBrushClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "brushButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "brushScreen"
+            }
+          },
+          {
+            "InteractionName": "navDrawToPaletteClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "paletteButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "paletteScreen"
+            }
+          },
+          {
+            "InteractionName": "zoomInClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "zoomInButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: zoom in"
+            }
+          },
+          {
+            "InteractionName": "zoomOutClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "zoomInButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: zoom out"
+            }
+          },
+          {
+            "InteractionName": "undoClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "undoButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: undo"
+            }
+          },
+          {
+            "InteractionName": "redoClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "redoButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: redo"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "brushScreen",
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "editBrushImage",
+            "X": 359,
+            "Y": 216,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "TextArea",
+            "Name": "statusTA",
+            "Y": 453,
+            "Width": 800,
+            "Height": 27,
+            "TextId": "__SingleUse_K9RC",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "hardnessCaptionTA",
+            "X": 96,
+            "Y": 336,
+            "Width": 111,
+            "Height": 32,
+            "TextId": "__SingleUse_UHO4",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "oversprayCaptionTA",
+            "X": 93,
+            "Y": 410,
+            "Width": 114,
+            "Height": 32,
+            "TextId": "__SingleUse_EJUQ",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "brushCaptionTA",
+            "X": 352,
+            "Width": 94,
+            "Height": 47,
+            "TextId": "__SingleUse_CIL7",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "brushNameTA",
+            "X": 361,
+            "Y": 181,
+            "Width": 77,
+            "Height": 29,
+            "TextId": "__SingleUse_YMEI",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "brushmakerNameTA",
+            "X": 650,
+            "Y": 182,
+            "Width": 77,
+            "Height": 29,
+            "TextId": "__SingleUse_LWDN",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "sizeValueTA",
+            "X": 202,
+            "Y": 262,
+            "Width": 77,
+            "Height": 29,
+            "TextId": "__SingleUse_OD9X",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "hardnessValueTA",
+            "X": 202,
+            "Y": 338,
+            "Width": 77,
+            "Height": 29,
+            "TextId": "__SingleUse_9YM9",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "oversprayValueTA",
+            "X": 202,
+            "Y": 412,
+            "Width": 77,
+            "Height": 29,
+            "TextId": "__SingleUse_NOJS",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "backButton",
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_navigation_arrow_back_70_70_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_navigation_arrow_back_70_70_000000.svg.png",
+            "IconX": -5,
+            "IconY": -4,
+            "IconHeight": 70,
+            "IconWidth": 70
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "settingsButton",
+            "X": 740,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_action_settings_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_action_settings_60_60_000000.svg.png",
+            "IconX": 1,
+            "IconY": 1,
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "paletteButton",
+            "X": 600,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_image_palette_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_image_palette_60_60_000000.svg.png",
+            "IconX": 1,
+            "IconY": 1,
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "filesButton",
+            "X": 670,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_action_all_inbox_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_action_all_inbox_60_60_000000.svg.png",
+            "IconX": 1,
+            "IconY": 1,
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "deleteBrushButton",
+            "X": 349,
+            "Y": 99,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_7275",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "newBrushButton",
+            "X": 349,
+            "Y": 60,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_QK1K",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "setBrushmakerButton",
+            "X": 601,
+            "Y": 132,
+            "Width": 175,
+            "Height": 50,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_50_small_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_50_small_rounded_pressed.png",
+            "TextId": "__SingleUse_GE5Z",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "Slider",
+            "Name": "hardnessSlider",
+            "X": 3,
+            "Y": 304,
+            "Width": 316,
+            "Height": 32,
+            "IsHorizontalSlider": true,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_rounded_dark.png",
+            "BackgroundX": 16,
+            "BackgroundY": 11,
+            "IndicatorMax": 255,
+            "ValueMax": 100,
+            "InitValue": 50,
+            "Preset": "alternate_theme\\presets\\slider\\horizontal\\thick\\medium_rounded_dark.json"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "sizeCaptionTA",
+            "X": 96,
+            "Y": 260,
+            "Width": 111,
+            "Height": 32,
+            "TextId": "__SingleUse_OL05",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "Slider",
+            "Name": "sizeSlider",
+            "X": 3,
+            "Y": 228,
+            "Width": 316,
+            "Height": 32,
+            "IsHorizontalSlider": true,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_rounded_dark.png",
+            "BackgroundX": 16,
+            "BackgroundY": 11,
+            "IndicatorMax": 255,
+            "ValueMax": 100,
+            "InitValue": 50,
+            "Preset": "alternate_theme\\presets\\slider\\horizontal\\thick\\medium_rounded_dark.json"
+          },
+          {
+            "Type": "Slider",
+            "Name": "brushScrollSlider",
+            "X": 241,
+            "Y": 141,
+            "Width": 316,
+            "Height": 32,
+            "IsHorizontalSlider": true,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_rounded_dark.png",
+            "BackgroundX": 16,
+            "BackgroundY": 11,
+            "IndicatorMax": 255,
+            "ValueMax": 255,
+            "InitValue": 32,
+            "Preset": "alternate_theme\\presets\\slider\\horizontal\\thick\\medium_rounded_dark.json"
+          },
+          {
+            "Type": "Slider",
+            "Name": "overspraySlider",
+            "X": 3,
+            "Y": 378,
+            "Width": 316,
+            "Height": 32,
+            "IsHorizontalSlider": true,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_rounded_dark.png",
+            "BackgroundX": 16,
+            "BackgroundY": 11,
+            "IndicatorMax": 255,
+            "ValueMax": 100,
+            "InitValue": 50,
+            "Preset": "alternate_theme\\presets\\slider\\horizontal\\thick\\medium_rounded_dark.json"
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "brushBack1Image",
+            "X": 319,
+            "Y": 176,
+            "Width": 40,
+            "Height": 40,
+            "ScalingAlgorithm": "Nearest-neighbor"
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "brushBack2Image",
+            "X": 279,
+            "Y": 176,
+            "Width": 40,
+            "Height": 40,
+            "ScalingAlgorithm": "Nearest-neighbor"
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "brushBack3Image",
+            "X": 241,
+            "Y": 176,
+            "Width": 40,
+            "Height": 40,
+            "ScalingAlgorithm": "Nearest-neighbor"
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "brushForward1Image",
+            "X": 439,
+            "Y": 176,
+            "Width": 40,
+            "Height": 40,
+            "ScalingAlgorithm": "Nearest-neighbor"
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "brushForward2Image",
+            "X": 479,
+            "Y": 176,
+            "Width": 40,
+            "Height": 40,
+            "ScalingAlgorithm": "Nearest-neighbor"
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "brushForward3Image",
+            "X": 519,
+            "Y": 176,
+            "Width": 40,
+            "Height": 40,
+            "ScalingAlgorithm": "Nearest-neighbor"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "navBrushToDraw",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "backButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "drawScreen"
+            }
+          },
+          {
+            "InteractionName": "navBrushToPalette",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "paletteButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "paletteScreen"
+            }
+          },
+          {
+            "InteractionName": "navBrushToSettings",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "settingsButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "settingsScreen"
+            }
+          },
+          {
+            "InteractionName": "navBrushToFiles",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "filesButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "filesScreen"
+            }
+          },
+          {
+            "InteractionName": "newBrushClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "newBrushButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: create new brush"
+            }
+          },
+          {
+            "InteractionName": "deleteBrushClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "deleteBrushButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: delete brush"
+            }
+          },
+          {
+            "InteractionName": "hardnessSliderValueChanged",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "hardnessSlider"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: change brush hardness and select generated brush"
+            }
+          },
+          {
+            "InteractionName": "sizeSliderValueChanged",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "sizeSlider"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: change brush size and select generated brush"
+            }
+          },
+          {
+            "InteractionName": "brushScrollSliderValueChanged",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "brushScrollSlider"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// Select a brush from the list using the value of brushScrollSlider as the index"
+            }
+          },
+          {
+            "InteractionName": "overspraySliderValueChanged",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "overspraySlider"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: change brush overspray amount and select generated brush"
+            }
+          },
+          {
+            "InteractionName": "setBrushmakerButtonClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "setBrushmakerButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: Set the current brush as the brushmaker to edit the brushImage"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "storageSettingsScreen",
+        "Components": [
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "settingsButton",
+            "X": 70,
+            "Y": -1,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_action_settings_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_action_settings_60_60_000000.svg.png",
+            "IconX": 1,
+            "IconY": 1,
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "TextArea",
+            "Name": "statusTA",
+            "Y": 447,
+            "Width": 800,
+            "Height": 27,
+            "TextId": "__SingleUse_VZ28",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "googleAccountCaptionTA",
+            "X": 32,
+            "Y": 320,
+            "Width": 137,
+            "Height": 24,
+            "TextId": "__SingleUse_UMOQ",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "googleAccountTA",
+            "X": 250,
+            "Y": 320,
+            "Width": 45,
+            "Height": 24,
+            "TextId": "__SingleUse_THCO",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "googleSetupButton",
+            "X": 529,
+            "Y": 314,
+            "Width": 214,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_medium_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_medium_rounded_pressed.png",
+            "TextId": "__SingleUse_VN9E",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "nextcloudAccountCaptionTA",
+            "X": 32,
+            "Y": 224,
+            "Width": 163,
+            "Height": 24,
+            "TextId": "__SingleUse_OS6Z",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "nextcloudAccountTA",
+            "X": 250,
+            "Y": 224,
+            "Width": 45,
+            "Height": 24,
+            "TextId": "__SingleUse_V7UO",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "sdCaptionTA",
+            "X": 32,
+            "Y": 125,
+            "Width": 127,
+            "Height": 24,
+            "TextId": "__SingleUse_F2RC",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "sdStatusTA",
+            "X": 250,
+            "Y": 125,
+            "Width": 45,
+            "Height": 24,
+            "TextId": "__SingleUse_61M1",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "storageSettingsTitleTA",
+            "X": 178,
+            "Width": 444,
+            "Height": 59,
+            "TextId": "__SingleUse_WPU0",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "backButton",
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_navigation_arrow_back_70_70_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_navigation_arrow_back_70_70_000000.svg.png",
+            "IconX": -5,
+            "IconY": -4,
+            "IconHeight": 70,
+            "IconWidth": 70
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "nextcloudSetupButton",
+            "X": 529,
+            "Y": 218,
+            "Width": 214,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_medium_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_medium_rounded_pressed.png",
+            "TextId": "__SingleUse_BDG8",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "nextcloudSetupInteraction",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "nextcloudSetupButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: setup Nextcloud (go to login screen and allow on-screen keyboard typing in siteEntryTA)"
+            }
+          },
+          {
+            "InteractionName": "googleSetupInteraction",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "googleSetupButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: setup Google Drive (go to login screen, disable siteEntryTA for on-screen keyboard typing, and set its value to \"Google Drive\")"
+            }
+          },
+          {
+            "InteractionName": "navStorageToDrawInteraction",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "backButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "drawScreen"
+            }
+          },
+          {
+            "InteractionName": "navStorageToSettingsInteraction",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "settingsButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "settingsScreen"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "loginScreen",
+        "Components": [
+          {
+            "Type": "TextArea",
+            "Name": "authUrlValueTA",
+            "X": 323,
+            "Y": 416,
+            "Width": 102,
+            "Height": 24,
+            "TextId": "__SingleUse_K8G5",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "authUrlCaptionTA",
+            "X": 40,
+            "Y": 416,
+            "Width": 141,
+            "Height": 24,
+            "TextId": "__SingleUse_4KRO",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "loginTitleTA",
+            "X": 260,
+            "Width": 280,
+            "Height": 59,
+            "TextId": "__SingleUse_XFRE",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "boxWithBorder",
+            "X": 191,
+            "Y": 82,
+            "Width": 570,
+            "Height": 50,
+            "BorderColor": {
+              "Red": 66,
+              "Green": 66,
+              "Blue": 65
+            },
+            "BorderSize": 5
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "usernameBorder",
+            "X": 191,
+            "Y": 142,
+            "Width": 570,
+            "Height": 50,
+            "BorderColor": {
+              "Red": 66,
+              "Green": 66,
+              "Blue": 65
+            },
+            "BorderSize": 5
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "passwordBorder",
+            "X": 191,
+            "Y": 202,
+            "Width": 570,
+            "Height": 50,
+            "BorderColor": {
+              "Red": 66,
+              "Green": 66,
+              "Blue": 65
+            },
+            "BorderSize": 5
+          },
+          {
+            "Type": "TextArea",
+            "Name": "passwordEntryTA",
+            "X": 206,
+            "Y": 216,
+            "Width": 92,
+            "Height": 24,
+            "TextId": "__SingleUse_1QCP",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "siteEntryTA",
+            "X": 206,
+            "Y": 95,
+            "Width": 92,
+            "Height": 24,
+            "TextId": "__SingleUse_PVSW",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "usernameEntryTA",
+            "X": 206,
+            "Y": 155,
+            "Width": 92,
+            "Height": 24,
+            "TextId": "__SingleUse_YLV4",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "statusTA",
+            "Y": 447,
+            "Width": 800,
+            "Height": 27,
+            "TextId": "__SingleUse_N9U0",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "QRCode",
+            "Name": "authUrlQrcode",
+            "X": 191,
+            "Y": 321,
+            "Width": 126,
+            "Height": 126,
+            "Visible": false,
+            "QRVersion": 1,
+            "Scale": 6,
+            "Text": "https://hierosoft.com/solopaint-help",
+            "BackgroundColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "okButton",
+            "X": 274,
+            "Y": 274,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_X6A6",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "siteButton",
+            "X": 40,
+            "Y": 89,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_UIO1",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "usernameButton",
+            "X": 40,
+            "Y": 149,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_A8Z0",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "passwordButton",
+            "X": 40,
+            "Y": 209,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_OY2V",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "cancelButton",
+            "X": 427,
+            "Y": 274,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_VWYL",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "okLogin",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "okButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: attempt to login or get auth URL"
+            }
+          },
+          {
+            "InteractionName": "navLoginToStorage",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "cancelButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "storageSettingsScreen"
+            }
+          },
+          {
+            "InteractionName": "siteButtonClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "siteButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: Set on-screen keyboard focus to siteEntryTA, unless disallowed (in that case siteEntryTA's value is \"Google Drive\")"
+            }
+          },
+          {
+            "InteractionName": "usernameButtonClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "usernameButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: Set on-screen keyboard focus to usernameEntryTA"
+            }
+          },
+          {
+            "InteractionName": "passwordButtonClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "passwordButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: Set on-screen keyboard focus to passwordEntryTA"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "settingsScreen",
+        "Components": [
+          {
+            "Type": "TextArea",
+            "Name": "sdStatusCaptionTA",
+            "X": 30,
+            "Y": 402,
+            "Width": 127,
+            "Height": 24,
+            "TextId": "__SingleUse_C75V",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "sdStatusValueTA",
+            "X": 179,
+            "Y": 402,
+            "Width": 45,
+            "Height": 24,
+            "TextId": "__SingleUse_6PC5",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "backButton",
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_navigation_arrow_back_70_70_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_navigation_arrow_back_70_70_000000.svg.png",
+            "IconX": -5,
+            "IconY": -4,
+            "IconHeight": 70,
+            "IconWidth": 70
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "brushButton",
+            "X": 67,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_image_brush_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_image_brush_60_60_000000.svg.png",
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "TextArea",
+            "Name": "showColoringBookLayerCaptionTA",
+            "X": 207,
+            "Y": 267,
+            "Width": 210,
+            "Height": 24,
+            "TextId": "__SingleUse_UOT8",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "colorInLinesCaptionTA",
+            "X": 207,
+            "Y": 205,
+            "Width": 110,
+            "Height": 24,
+            "TextId": "__SingleUse_1R3Y",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "settingsTitleTA",
+            "X": 253,
+            "Width": 294,
+            "Height": 60,
+            "TextId": "__SingleUse_YVFI",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "coloringBookTitleTA",
+            "Y": 103,
+            "Width": 800,
+            "Height": 36,
+            "TextId": "__SingleUse_5WKQ",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "coloringBookSubtitleTA",
+            "Y": 130,
+            "Width": 800,
+            "Height": 36,
+            "TextId": "__SingleUse_1PS6",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "colorInLinesToggle",
+            "X": 483,
+            "Y": 192,
+            "Width": 110,
+            "Height": 50,
+            "InitialStatePressed": true,
+            "Pressed": "__generated\\alternate_theme_images_widgets_togglebutton_medium_round_on_active.png",
+            "Released": "__generated\\dark_theme_images_widgets_togglebutton_medium_round_off_dark.png"
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "showColoringBookLayerToggle",
+            "X": 483,
+            "Y": 254,
+            "Width": 110,
+            "Height": 50,
+            "InitialStatePressed": true,
+            "Pressed": "__generated\\alternate_theme_images_widgets_togglebutton_medium_round_on_active.png",
+            "Released": "__generated\\dark_theme_images_widgets_togglebutton_medium_round_off_dark.png"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "navSettingsToDraw",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "backButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "drawScreen"
+            }
+          },
+          {
+            "InteractionName": "navSettingsToBrush",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "brushButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "brushScreen"
+            }
+          },
+          {
+            "InteractionName": "changedColorInLinesToggle",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "colorInLinesToggle"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: save colorInLinesToggle setting"
+            }
+          },
+          {
+            "InteractionName": "changedShowColoringBookLayerToggle",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "showColoringBookLayerToggle"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: save showColoringBookLayerToggle setting"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "paletteScreen",
+        "CanvasBufferSize": 12000,
+        "Components": [
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "settingsButton",
+            "X": 740,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_action_settings_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_action_settings_60_60_000000.svg.png",
+            "IconX": 1,
+            "IconY": 1,
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "filesButton",
+            "X": 670,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_action_all_inbox_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_action_all_inbox_60_60_000000.svg.png",
+            "IconX": 1,
+            "IconY": 1,
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "backButton",
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_navigation_arrow_back_70_70_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_navigation_arrow_back_70_70_000000.svg.png",
+            "IconX": -5,
+            "IconY": -4,
+            "IconHeight": 70,
+            "IconWidth": 70
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "brushButton",
+            "X": 67,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_content_inbox_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_image_brush_60_60_000000.svg.png",
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "previousPaletteButton",
+            "X": 467,
+            "Y": 239,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_navigation_arrow_left_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_navigation_arrow_left_60_60_000000.svg.png",
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "ButtonWithIcon",
+            "Name": "nextPaletteButton",
+            "X": 674,
+            "Y": 240,
+            "Width": 60,
+            "Height": 60,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_icon_round_tiny_fill_pressed.png",
+            "IconPressed": "__generated\\icon_theme_images_navigation_arrow_right_60_60_FFFFFF.svg.png",
+            "IconReleased": "__generated\\icon_theme_images_navigation_arrow_right_60_60_000000.svg.png",
+            "IconHeight": 60,
+            "IconWidth": 60
+          },
+          {
+            "Type": "TextArea",
+            "Name": "editPaletteCaptionTA",
+            "X": 543,
+            "Y": 34,
+            "Width": 115,
+            "Height": 47,
+            "TextId": "__SingleUse_I92I",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "fullPaletteHueCaptionTA",
+            "X": 160,
+            "Y": 450,
+            "Width": 255,
+            "Height": 30,
+            "TextId": "__SingleUse_I4DW",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "paletteNameCaptionTA",
+            "X": 478,
+            "Y": 441,
+            "Width": 255,
+            "Height": 30,
+            "TextId": "__SingleUse_7U59",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "newPaletteButton",
+            "X": 497,
+            "Y": 83,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_UHB2",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "deletePaletteButton",
+            "X": 604,
+            "Y": 83,
+            "Width": 100,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_tiny_rounded_pressed.png",
+            "TextId": "__SingleUse_WQLR",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "Slider",
+            "Name": "fullPaletteHSlider",
+            "X": 121,
+            "Y": 424,
+            "Width": 332,
+            "Height": 32,
+            "IsHorizontalSlider": true,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_horizontal_thick_rounded_dark.png",
+            "BackgroundX": 16,
+            "BackgroundY": 11,
+            "IndicatorMax": 300,
+            "ValueMax": 255,
+            "InitValue": 255,
+            "Preset": "alternate_theme\\presets\\slider\\horizontal\\thick\\medium_rounded_dark.json"
+          },
+          {
+            "Type": "Box",
+            "Name": "fullPaletteOutline",
+            "X": 160,
+            "Y": 129,
+            "Width": 255,
+            "Height": 255,
+            "Color": {
+              "Red": 32,
+              "Green": 32,
+              "Blue": 32
+            }
+          },
+          {
+            "Type": "Image",
+            "Name": "fullPaletteImage",
+            "X": 160,
+            "Y": 129,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "BoxWithBorder",
+            "Name": "paletteBorder",
+            "X": 538,
+            "Y": 129,
+            "Width": 125,
+            "Height": 280,
+            "Color": {
+              "Red": 99,
+              "Green": 89,
+              "Blue": 84
+            },
+            "Alpha": 189
+          },
+          {
+            "Type": "Shape",
+            "Name": "fullPaletteSVCursor",
+            "X": 373,
+            "Y": 342,
+            "Width": 80,
+            "Height": 80,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "Points": [
+              {
+                "X": 70.0,
+                "Y": 40.0
+              },
+              {
+                "X": 80.0,
+                "Y": 40.0
+              },
+              {
+                "X": 40.0,
+                "Y": 80.0
+              },
+              {
+                "Y": 40.0
+              },
+              {
+                "X": 40.0
+              },
+              {
+                "X": 80.0,
+                "Y": 40.0
+              },
+              {
+                "X": 70.0,
+                "Y": 40.0
+              },
+              {
+                "X": 40.0,
+                "Y": 10.0
+              },
+              {
+                "X": 10.0,
+                "Y": 40.0
+              },
+              {
+                "X": 40.0,
+                "Y": 70.0
+              }
+            ],
+            "XScale": 1.0,
+            "YScale": 1.0,
+            "Draggable": true
+          },
+          {
+            "Type": "Image",
+            "Name": "paletteImage",
+            "X": 538,
+            "Y": 129,
+            "Width": 80,
+            "Height": 80
+          },
+          {
+            "Type": "ScalableImage",
+            "Name": "scalableImage1",
+            "X": 263,
+            "Y": 71,
+            "Width": 48,
+            "Height": 48,
+            "ScalingAlgorithm": "Nearest-neighbor"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "navPaletteToDraw",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "backButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "drawScreen"
+            }
+          },
+          {
+            "InteractionName": "navPaletteToBrush",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "brushButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "brushScreen"
+            }
+          },
+          {
+            "InteractionName": "navPaletteToFiles",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "filesButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "filesScreen"
+            }
+          },
+          {
+            "InteractionName": "navPaletteToSettings",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "settingsButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "settingsScreen"
+            }
+          },
+          {
+            "InteractionName": "goToPreviousPalette",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "previousPaletteButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: display previous palette"
+            }
+          },
+          {
+            "InteractionName": "goToNextPalette",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "nextPaletteButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: display next palette"
+            }
+          },
+          {
+            "InteractionName": "hueSliderValueChanged",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "fullPaletteHSlider"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: change color using new fullPaletteHSlider value"
+            }
+          },
+          {
+            "InteractionName": "newPaletteClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "newPaletteButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: Create new palette"
+            }
+          },
+          {
+            "InteractionName": "deletePaletteClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "deletePaletteButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: Delete currently selected palette"
+            }
+          }
+        ]
+      },
+      {
+        "Name": "filesScreen",
+        "Components": [
+          {
+            "Type": "TextArea",
+            "Name": "coloringBookLayerCaptionTA",
+            "X": 207,
+            "Y": 381,
+            "Width": 219,
+            "Height": 24,
+            "TextId": "__SingleUse_0Z81",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "coloringBookLayerToggle",
+            "X": 483,
+            "Y": 368,
+            "Width": 110,
+            "Height": 50,
+            "Pressed": "__generated\\alternate_theme_images_widgets_togglebutton_medium_round_on_active.png",
+            "Released": "__generated\\dark_theme_images_widgets_togglebutton_medium_round_off_dark.png"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "okButton",
+            "X": 255,
+            "Y": 438,
+            "Width": 138,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_small_round_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_small_round_pressed.png",
+            "TextId": "__SingleUse_A0J6",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "cancelButton",
+            "X": 408,
+            "Y": 438,
+            "Width": 138,
+            "Height": 36,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_36_small_round_action.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_36_small_round_pressed.png",
+            "TextId": "__SingleUse_AXIJ",
+            "ReleasedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "TextRotation": "0"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "titleTA",
+            "X": 278,
+            "Width": 245,
+            "Height": 59,
+            "TextId": "__SingleUse_4XGM",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            }
+          },
+          {
+            "Type": "ScrollWheel",
+            "Name": "filesScrollWheel",
+            "X": 350,
+            "Y": 59,
+            "Width": 100,
+            "Height": 309,
+            "NumberofItems": 10,
+            "Easing": "Back",
+            "EasingOption": "Out",
+            "SwipeAcceleration": 1.0,
+            "DragAcceleration": 1.0,
+            "OverShootPercentage": 75
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "okClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "okButton"
+            },
+            "Action": {
+              "Type": "ActionExecuteCode",
+              "Code": "// TODO: load file that is highlighted in filesScrollWheel, loading as coloring book layer if coloringBookLayerToggle value is true, and go to drawScreen"
+            }
+          },
+          {
+            "InteractionName": "cancelClicked",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "cancelButton"
+            },
+            "Action": {
+              "Type": "ActionGotoScreen",
+              "ScreenTransitionType": "ScreenTransitionNone",
+              "ActionComponent": "brushScreen"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "solopaint",
+    "Resolution": {
+      "Width": 800,
+      "Height": 480
+    },
+    "SelectedColorDepth": 24,
+    "StartupScreenName": "drawScreen",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      24
+    ],
+    "AvailableLCDs": {
+      "24": "LCDGPU2D"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 800,
+        "Height": 480
+      }
+    ],
+    "PhysicalButtons": [],
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommandOverride": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommandOverride": "make -f ../gcc/Makefile flash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32U5",
+    "SubFamily": "STM32U599/5A9",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m33",
+    "ProjectFile": "../Riverdi_50STM32U5A9.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [
+      "GPU2D"
+    ],
+    "AdditionalFeatures": []
+  },
+  "Version": "4.25.0",
+  "CreatedBy": "4.25.0"
+}
